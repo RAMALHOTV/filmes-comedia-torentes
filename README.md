@@ -14,7 +14,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR gold]""""""""" DUBLADO..BluRay..720P/1080p """""""""" [/COLOR]
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+#EXTINF:-1 tvg-logo="https://images.moviefit.me/t/o/309645-the-gentlemen.jpg" group-title="Cine On Line Comedia",[B]Magnatas do Crime [The Gentlemen - Senhores do Crime[COLOR red]romance[COLOR yellow] (2021)[/B][/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B3qRPuygNYMF2Xaw57vMh6sqXFSW3FzH/view
+###########################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/convencao-das-bruxas-the-witches-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Convenção Das Bruxas(2021)[/B][/COLOR]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32a9cbf6032b934c750facbd4b8b6732ee969ce5
